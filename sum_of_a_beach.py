@@ -9,9 +9,3 @@ total_count = sand_count + water_count + fish_count + sun_count
 
 print(total_count)
 
-
-
-
-
-
-
