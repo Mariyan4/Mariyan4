@@ -1,4 +1,5 @@
-first_name = input()
-last_name = input()
+f_name = input()
+s_name =input()
 delimiter = input()
-print(f"{first_name}{delimiter}{last_name}")
+
+print(f"{f_name}{delimiter}{s_name}")
